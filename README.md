@@ -6,7 +6,7 @@
 			1299 Machine Learning & Data Science Interview Questions. <b>Answered + PDF Ready.<b/>
 			<br>
 			<div>
-				<img src="https://storage.googleapis.com/kaggle-avatars/images/8379479-kg.png" width="260"  alt="MLStack.Cafe">
+				<img src="https://user-images.githubusercontent.com/13550565/139613262-3777195b-872d-434b-b17f-a1b1bd28d448.png" width="100"  alt="MLStack.Cafe">
 			</div>
 		</a>
 		<sub><i>Proudly supporting the Machine Learning Interviews</i></sub>
