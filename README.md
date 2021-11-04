@@ -3,7 +3,7 @@
 		<a href="https://www.mlstack.cafe/?utm_source=github&utm_medium=mli">
 			<b>Having Machine Learning or Data Science Interview?</b>
 			<br>
-			<b>MLStack.Cafe</b> - 1299 ML, DS & Python Interview Questions. <b>Answered & PDF Ready.<b/>
+			<b>MLStack.Cafe</b> - 1299 ML, DS & Python Interview Questions. <b>Answered & Solved.<b/>
 			<br>
 			<div>
 				<img src="https://user-images.githubusercontent.com/13550565/139613698-f401a9f4-33ef-4961-a8cb-5e29ecc9a7b7.png" width="100"  alt="MLStack.Cafe">
