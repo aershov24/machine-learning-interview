@@ -9,7 +9,7 @@
 				<img src="https://user-images.githubusercontent.com/13550565/139613698-f401a9f4-33ef-4961-a8cb-5e29ecc9a7b7.png" width="100"  alt="MLStack.Cafe">
 			</div>
 		</a>
-		<sub><i>Proudly supporting the Machine Learning Interviews</i></sub>
+		<sub><i>MLStack.Cafe is proudly supporting the Machine Learning Interviews</i></sub>
 	</p>
 </div>
 
